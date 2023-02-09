@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Multiplication_table\bin\Debug\net6.0\Multiplication_table.exe
+C:\Users\HP\source\repos\Multiplication_table\bin\Debug\net6.0\Multiplication_table.deps.json
+C:\Users\HP\source\repos\Multiplication_table\bin\Debug\net6.0\Multiplication_table.runtimeconfig.json
+C:\Users\HP\source\repos\Multiplication_table\bin\Debug\net6.0\Multiplication_table.dll
+C:\Users\HP\source\repos\Multiplication_table\bin\Debug\net6.0\Multiplication_table.pdb
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.AssemblyInfo.vb
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.dll
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\refint\Multiplication_table.dll
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.pdb
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\Multiplication_table.genruntimeconfig.cache
+C:\Users\HP\source\repos\Multiplication_table\obj\Debug\net6.0\ref\Multiplication_table.dll

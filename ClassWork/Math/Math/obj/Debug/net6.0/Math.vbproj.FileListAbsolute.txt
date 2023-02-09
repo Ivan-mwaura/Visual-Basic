@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Math\Math\bin\Debug\net6.0\Math.exe
+C:\Users\HP\source\repos\Math\Math\bin\Debug\net6.0\Math.deps.json
+C:\Users\HP\source\repos\Math\Math\bin\Debug\net6.0\Math.runtimeconfig.json
+C:\Users\HP\source\repos\Math\Math\bin\Debug\net6.0\Math.dll
+C:\Users\HP\source\repos\Math\Math\bin\Debug\net6.0\Math.pdb
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.AssemblyInfo.vb
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.dll
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\refint\Math.dll
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.pdb
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+C:\Users\HP\source\repos\Math\Math\obj\Debug\net6.0\ref\Math.dll

@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Contol_structures\bin\Debug\net6.0\Contol_structures.exe
+C:\Users\HP\source\repos\Contol_structures\bin\Debug\net6.0\Contol_structures.deps.json
+C:\Users\HP\source\repos\Contol_structures\bin\Debug\net6.0\Contol_structures.runtimeconfig.json
+C:\Users\HP\source\repos\Contol_structures\bin\Debug\net6.0\Contol_structures.dll
+C:\Users\HP\source\repos\Contol_structures\bin\Debug\net6.0\Contol_structures.pdb
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.AssemblyInfo.vb
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.dll
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\refint\Contol_structures.dll
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.pdb
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\Contol_structures.genruntimeconfig.cache
+C:\Users\HP\source\repos\Contol_structures\obj\Debug\net6.0\ref\Contol_structures.dll

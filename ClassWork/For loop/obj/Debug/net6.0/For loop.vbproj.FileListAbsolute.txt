@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\For loop\bin\Debug\net6.0\For loop.exe
+C:\Users\HP\source\repos\For loop\bin\Debug\net6.0\For loop.deps.json
+C:\Users\HP\source\repos\For loop\bin\Debug\net6.0\For loop.runtimeconfig.json
+C:\Users\HP\source\repos\For loop\bin\Debug\net6.0\For loop.dll
+C:\Users\HP\source\repos\For loop\bin\Debug\net6.0\For loop.pdb
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.AssemblyInfo.vb
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.dll
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\refint\For loop.dll
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.pdb
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\For loop.genruntimeconfig.cache
+C:\Users\HP\source\repos\For loop\obj\Debug\net6.0\ref\For loop.dll

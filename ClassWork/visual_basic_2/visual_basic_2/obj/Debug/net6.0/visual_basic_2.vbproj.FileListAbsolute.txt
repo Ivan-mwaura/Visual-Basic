@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\bin\Debug\net6.0\visual_basic_2.exe
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\bin\Debug\net6.0\visual_basic_2.deps.json
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\bin\Debug\net6.0\visual_basic_2.runtimeconfig.json
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\bin\Debug\net6.0\visual_basic_2.dll
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\bin\Debug\net6.0\visual_basic_2.pdb
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.AssemblyInfo.vb
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.dll
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\refint\visual_basic_2.dll
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.pdb
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\visual_basic_2.genruntimeconfig.cache
+C:\Users\HP\source\repos\visual_basic_2\visual_basic_2\obj\Debug\net6.0\ref\visual_basic_2.dll

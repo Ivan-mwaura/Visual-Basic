@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\For1\bin\Debug\net6.0\For1.exe
+C:\Users\HP\source\repos\For1\bin\Debug\net6.0\For1.deps.json
+C:\Users\HP\source\repos\For1\bin\Debug\net6.0\For1.runtimeconfig.json
+C:\Users\HP\source\repos\For1\bin\Debug\net6.0\For1.dll
+C:\Users\HP\source\repos\For1\bin\Debug\net6.0\For1.pdb
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.vbproj.AssemblyReference.cache
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.AssemblyInfo.vb
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.dll
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\refint\For1.dll
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.pdb
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\For1.genruntimeconfig.cache
+C:\Users\HP\source\repos\For1\obj\Debug\net6.0\ref\For1.dll
