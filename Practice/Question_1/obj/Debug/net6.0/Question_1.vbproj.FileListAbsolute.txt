@@ -1,0 +1,15 @@
+E:\VB\Practice\Question_1\bin\Debug\net6.0\Question_1.exe
+E:\VB\Practice\Question_1\bin\Debug\net6.0\Question_1.deps.json
+E:\VB\Practice\Question_1\bin\Debug\net6.0\Question_1.runtimeconfig.json
+E:\VB\Practice\Question_1\bin\Debug\net6.0\Question_1.dll
+E:\VB\Practice\Question_1\bin\Debug\net6.0\Question_1.pdb
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.vbproj.AssemblyReference.cache
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.AssemblyInfoInputs.cache
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.AssemblyInfo.vb
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.vbproj.CoreCompileInputs.cache
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.dll
+E:\VB\Practice\Question_1\obj\Debug\net6.0\refint\Question_1.dll
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.pdb
+E:\VB\Practice\Question_1\obj\Debug\net6.0\Question_1.genruntimeconfig.cache
+E:\VB\Practice\Question_1\obj\Debug\net6.0\ref\Question_1.dll

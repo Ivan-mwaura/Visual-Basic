@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj": {}
+    "E:\\VB\\ClassWork\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj": {
+    "E:\\VB\\ClassWork\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj",
+        "projectUniqueName": "E:\\VB\\ClassWork\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj",
         "projectName": "visual_basic_2",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj",
+        "projectPath": "E:\\VB\\ClassWork\\visual_basic_2\\visual_basic_2\\visual_basic_2.vbproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\visual_basic_2\\visual_basic_2\\obj\\",
+        "outputPath": "E:\\VB\\ClassWork\\visual_basic_2\\visual_basic_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

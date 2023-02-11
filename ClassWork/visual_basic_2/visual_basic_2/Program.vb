@@ -1,5 +1,3 @@
-Imports System
-
 Module Program
     Sub Main()
         Dim object_1 As New Circle()

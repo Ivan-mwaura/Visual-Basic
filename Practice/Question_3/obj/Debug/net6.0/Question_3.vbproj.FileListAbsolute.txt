@@ -1,0 +1,15 @@
+E:\VB\Practice\Question_3\bin\Debug\net6.0\Question_3.exe
+E:\VB\Practice\Question_3\bin\Debug\net6.0\Question_3.deps.json
+E:\VB\Practice\Question_3\bin\Debug\net6.0\Question_3.runtimeconfig.json
+E:\VB\Practice\Question_3\bin\Debug\net6.0\Question_3.dll
+E:\VB\Practice\Question_3\bin\Debug\net6.0\Question_3.pdb
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.vbproj.AssemblyReference.cache
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.AssemblyInfoInputs.cache
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.AssemblyInfo.vb
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.vbproj.CoreCompileInputs.cache
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.dll
+E:\VB\Practice\Question_3\obj\Debug\net6.0\refint\Question_3.dll
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.pdb
+E:\VB\Practice\Question_3\obj\Debug\net6.0\Question_3.genruntimeconfig.cache
+E:\VB\Practice\Question_3\obj\Debug\net6.0\ref\Question_3.dll
