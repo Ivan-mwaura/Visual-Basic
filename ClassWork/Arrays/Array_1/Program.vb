@@ -26,7 +26,16 @@ Module Program
         Console.WriteLine("cheapest item cost = " & cheapest)
         Console.WriteLine("Expensive item cost = " & expensive)
 
+        Array.Sort(price)
+        For i = LBound(price) To UBound(price)
+            Console.Write((price(i) & Space(2)))
+        Next
+        Console.WriteLine()
 
+        Array.Reverse(price)
+        For i = LBound(price) To UBound(price)
+            Console.Write((price(i) & Space(2)))
+        Next
 
     End Sub
 End Module

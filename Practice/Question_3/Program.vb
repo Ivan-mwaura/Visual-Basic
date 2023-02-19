@@ -34,6 +34,5 @@ Module Program
                 Console.WriteLine("You are Obese")
 
         End Select
-
     End Sub
 End Module
